@@ -12,7 +12,7 @@ body {
 h1 {
 	background-color: rgb(179, 179, 204);
 	color: rgb(230, 230, 230); /* Same as body background. */
-	font-size: 10px;
+	font-size: 2em;
 	padding: .5em 2em .5em; /* You want three values. */
 	font-weight: bold;
 	text-transform: uppercase;
@@ -22,7 +22,7 @@ h1 {
 h2 {
 	background-color: rgb(179, 179, 204);
 	color: rgb(230, 230, 230);
-	font-size: 10px;
+	font-size: 2em;
 	padding:.2em 1em .2em;
 	font-family: serif;
 	font-weight: bold;
@@ -31,7 +31,7 @@ h2 {
 h3 {
 	margin: .5em 2em .5em; /*Three values again. You got the idea.*/
 	padding-top: .5em 2em .5em;
-	font-size: 20px;
+	font-size: 1.5em;
 	color: rgb(153, 0, 0);
 	font-weight:semibold;
 	text-transform: uppercase;
