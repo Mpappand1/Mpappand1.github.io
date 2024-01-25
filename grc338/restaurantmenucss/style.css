@@ -12,7 +12,7 @@ body {
 h1 {
 	background-color: (179, 179, 204);
 	color: (230, 230, 230); /* Same as body background. */
-	font: size 20pt;
+	font: size 70pt;
 	padding: 2em 2em 2em; /* You want three values. */
 	font-weight: 600;
 	text-transform: uppercase;
@@ -22,7 +22,7 @@ h1 {
 h2 {
 	background-color: (179, 179, 204);
 	color: (230, 230, 230);
-	font-size: 14pt;
+	font-size: 55pt;
 	padding:2em 2em 2em;
 	font-family: 'Times New Roman', Times, serif;
 	font-weight: 400;
