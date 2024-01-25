@@ -36,7 +36,7 @@ h3 {
 	font-weight:semibold;
 	text-transform: uppercase;
 	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
-	border-top: rgb(153, 0, 0);
+	border-top: 3px rgb(153, 0, 0);
 }
 
 h4 {
