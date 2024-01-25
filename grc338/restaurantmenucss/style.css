@@ -10,8 +10,8 @@ body {
 }
 
 h1 {
-	background-color: (179, 179, 204);
-	color: (230, 230, 230); /* Same as body background. */
+	background-color: rgb(179, 179, 204);
+	color: rgb(230, 230, 230); /* Same as body background. */
 	font-size: 3px;
 	padding: .2em 1em .2em; /* You want three values. */
 	font-weight: bold;
@@ -20,8 +20,8 @@ h1 {
 
 
 h2 {
-	background-color: (179, 179, 204);
-	color: (230, 230, 230);
+	background-color: rgb(179, 179, 204);
+	color: rgb(230, 230, 230);
 	font-size: 3px;
 	padding:.2em 1em .2em;
 	font-family: 'Times New Roman', Times, serif;
