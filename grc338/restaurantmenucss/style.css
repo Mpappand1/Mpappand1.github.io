@@ -14,7 +14,7 @@ h1 {
 	color: (230, 230, 230); /* Same as body background. */
 	font: size 70px;
 	padding: 2em 2em 2em; /* You want three values. */
-	font-weight: 600;
+	font-weight: bold;
 	text-transform: uppercase;
 }
 
@@ -25,7 +25,7 @@ h2 {
 	font-size: 55px;
 	padding:2em 2em 2em;
 	font-family: 'Times New Roman', Times, serif;
-	font-weight: 400;
+	font-weight: bold;
 }
 
 h3 {
@@ -33,7 +33,7 @@ h3 {
 	padding-top: 2em 2em 2em;
 	font-size: 12px;
 	color: rgb(153, 0, 0);
-	font-weight:600;
+	font-weight:semibold;
 	text-transform: uppercase;
 	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
 	border-top: 2em 2em 2em;
