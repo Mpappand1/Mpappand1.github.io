@@ -22,8 +22,8 @@ h1 {
 h2 {
 	background-color: (179, 179, 204);
 	color: (230, 230, 230);
-	font-size: 55px;
-	padding:2em 2em 2em;
+	font-size: 25px;
+	padding:.5em 2em .5em;
 	font-family: 'Times New Roman', Times, serif;
 	font-weight: bold;
 }
