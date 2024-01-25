@@ -1,0 +1,61 @@
+/*CSS document*/
+
+/* Replace this whole line 3 with my version of Eric Meyer’s reset tool.*/
+
+body {
+	background-color: rgb(230, 230, 230); /* Not totally white. */
+	color: rgb(128, 128, 128);  /* Not totally black. */
+	line-height: 140%; 	/* A little extra leading. */
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	background-color: (179, 179, 204);
+	color: (230, 230, 230); /* Same as body background. */
+	font: size 20pt;
+	padding: 2em 2em 2em; /* You want three values. */
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+
+h2 {
+	background-color: (179, 179, 204);
+	color: (230, 230, 230);
+	font-size: 14pt;
+	padding: 600;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 400;
+}
+
+h3 {
+	margin: 2em 0.5em 2em; /*Three values again. You got the idea.*/
+	padding-top: 2em 2em 2em;
+	font-size: 12pt;
+	color: rgb(153, 0, 0);
+	font-weight:600;
+	text-transform: uppercase;
+	letter-spacing: 0.1em; /*Just an extra tracking for bold uppercase letters. Try 0.1em */
+	border-top: 2em 2em 2em;
+}
+
+h4 {
+	font: weight 600;
+}
+
+p.description {
+	font-style: italic;
+}
+
+p.price {
+	color: rgb(153, 0, 0);`
+}
+
+ul {
+	margin: 2em 2em 2em;
+}
+
+li { 
+	margin: 2em 2em;
+	list-style-type: none;
+}
